@@ -63,7 +63,7 @@ If you have an open-source project in any of these areas, I’d love to contribu
 
 ## 📫 Reach Me
 
-- **Email:** sharad.patel@example.com  
+- **Email:** sharadpatelwdn@gmail.com  
 - **LinkedIn:** [linkedin.com/in/sharad-patel](https://www.linkedin.com)  
 - **Twitter:** [@sharad1224](https://twitter.com/sharad1224)
 
